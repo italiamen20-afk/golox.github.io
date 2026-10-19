@@ -1,1 +1,5 @@
-www.golox.com
+Type:      CNAME
+Name:      www
+Value:     italiamen20-afk.github.io
+TTL:       Auto (или 3600)
+Proxy:     OFF / DNS only (серое облако) — если Cloudflare
